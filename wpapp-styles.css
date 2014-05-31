@@ -1,0 +1,29 @@
+.wp_ipay_button_selection_section, .wp_ipay_button_other_amt_section, .wp_ipay_button_reference_section{
+margin-bottom: 10px;
+}
+.wp_ipay_button_widget{
+margin: 10px 0;
+}
+.wp_accept_pp_button_form input{
+width: auto !important;
+}
+
+#accept_ipay_payment_form {
+  background-color: #FBFBFB;
+  border: 1px solid #DDDDDD;
+  padding: 15px;
+}
+
+#accept_ipay_payment_form label {
+  display: inline-block;
+  width: 105px;
+}
+
+#accept_ipay_payment_form input[type="text"] {
+  margin-bottom: 5px;
+}
+
+#accept_ipay_payment_form input[type="image"] {
+	margin-top:10px;
+}
+	
